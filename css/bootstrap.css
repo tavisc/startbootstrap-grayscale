@@ -6200,4 +6200,7 @@ button.close {
     display: none !important;
   }
 }
+.fa-play-circle::before {
+  content: url("https://raw.githubusercontent.com/tavisc/tavisc.github.io/gh-pages/img/Logo.png") !important;
+}
 /*# sourceMappingURL=bootstrap.css.map */
