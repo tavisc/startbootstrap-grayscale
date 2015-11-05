@@ -653,7 +653,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url(../img/map-image.png);
+    background-image: url(https://raw.githubusercontent.com/tavisc/tavisc.github.io/master/img/map-image.png);
     background-position: center;
     background-repeat: no-repeat;
 }
